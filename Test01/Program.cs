@@ -6,7 +6,7 @@ namespace Test01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello My Cruel World!");
+            Console.WriteLine("Hello My Cruel World!  But it is mine ");
         }
     }
 }
